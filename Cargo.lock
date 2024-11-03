@@ -1269,6 +1269,7 @@ dependencies = [
  "portable-atomic",
  "rand",
  "static_cell",
+ "uln2003",
 ]
 
 [[package]]
@@ -1444,6 +1445,15 @@ name = "typenum"
 version = "1.17.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "42ff0bf0c66b8238c6f3b578df37d0b7848e55df8577b3f74f92a69acceeb825"
+
+[[package]]
+name = "uln2003"
+version = "0.3.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "5b76ab0b42964dc2caddeb5427faa97c82fda59e131de117fc7dee1b8d7388c0"
+dependencies = [
+ "embedded-hal 1.0.0",
+]
 
 [[package]]
 name = "unicode-ident"
