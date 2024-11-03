@@ -1,21 +1,40 @@
-MIT License
+Transparent AI Ingestion License (TAIL)
+Version 1.0
+Preamble
+This license governs the use of the software (the "Software") and is intended to promote transparency and openness in artificial intelligence (AI) development.
+Section 1: Definitions
 
-Copyright (c) 2023 Mike Panetta
+    "AI System" means any software, system, or application that uses artificial intelligence, machine learning, or deep learning techniques.
+    "Ingestion" means the incorporation, integration, or use of the Software, in whole or in part, into an AI System.
+    "Derivative Work" means any work based on or derived from the Software.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Section 2: License Terms
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+    Grant of Rights: The licensor grants you a non-exclusive, worldwide, royalty-free license to use, reproduce, and distribute the Software.
+    Ingestion Requirements: If you Ingest the Software into an AI System, you must:
+        Make the entire AI System, including architecture, training data, models, weights, and biases, publicly available under an open-source license (e.g., Apache-2.0, GPL-3.0).
+        Provide clear documentation of the AI System's functionality, including input/output parameters, data processing, and decision-making processes.
+        Disclose any potential biases, limitations, or ethical concerns related to the AI System.
+    Derivative Works: Any Derivative Work must be made available under the same terms as this license.
+    No Warranty: The Software is provided "as is" without warranty of any kind.
+    Limitation of Liability: In no event will the licensor be liable for any damages, including direct, indirect, incidental, or consequential damages.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Section 3: Restrictions
+
+    No Sublicensing: You may not sublicense the Software.
+    No Commercial Use: You may not use the Software for commercial purposes without explicit permission from the licensor.
+    No Misrepresentation: You may not misrepresent the Software or its origins.
+
+Section 4: Termination
+This license terminates automatically if you fail to comply with its terms.
+Section 5: Disclaimer
+This Software is provided "as is" and may not provide adequate protection for your specific needs. You use the Software at your own risk. The licensor disclaims all warranties, express or implied, including but not limited to implied warranties of merchantability, fitness for a particular purpose, and noninfringement.
+Section 6: License Switch
+At the licensor's discretion, this license may be replaced with the GNU General Public License, version 3 (GPLv3) in the event of:
+
+    A lawsuit or claim against the licensor related to the Software.
+    A material breach of this license by a significant number of users.
+    Any other circumstance that, in the licensor's opinion, necessitates switching to the GPLv3.
+
+Upon switching to the GPLv3, all users of the Software will be governed by the GPLv3 terms.
+By using the Software, you acknowledge that you have read, understood, and agree to be bound by the terms of this license.
